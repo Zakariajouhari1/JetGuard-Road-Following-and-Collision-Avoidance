@@ -22,7 +22,13 @@ This project focuses on combining optimized regression and classification models
 
 2. **Collision Avoidance Model**:
    - Collect image classification dataset using `data_collection.pynb`.
-   - Train and optimize your Collision Avoidanc
-3.Combined Script  :
-  Save the TRT models inside the "combine_scripts" folder and run the "RoadFollowing+CollisionAvoidance.ipynb" 
-  notebook.
+   - Train and optimize your Collision Avoidance
+3. **Combined Script**:
+    -Save the TRT models inside the "combine_scripts" folder and run the "RoadFollowing+CollisionAvoidance.ipynb" 
+     notebook.
+
+**This is the path we have constructed** :
+![WhatsApp Image 2024-05-07 at 23 31 45](https://github.com/Zakariajouhari1/Jetbot-Road-Following-and-Collision-Avoidance/assets/162613293/4d1beba9-9f3c-4322-a803-5dc479c79a25)
+ **data collection process** :
+![WhatsApp Image 2024-05-07 at 23 45 15 (1)](https://github.com/Zakariajouhari1/Jetbot-Road-Following-and-Collision-Avoidance/assets/162613293/e33c80cb-6955-4295-b850-ca13f2bec035)
+** For More info you can check our project paper **
