@@ -1,3 +1,6 @@
+## JetGuard
+Introducing JetGuard, the brainchild of Zakaria Jouhari, a smart and agile robot designed to master autonomous navigation and obstacle avoidance. With the power of AI and the Jetson Nano platform, JetGuard effortlessly follows roads and swiftly detects and dodges obstacles in real-time. It's more than just a robot; it's your trusty sidekick for exploring the world of robotics and AI. 
+
 ## Combined Jetbot Road Following and Collision Avoidance Tasks
 
 This repository combines the functionalities of Jetbot Road Following and Collision Avoidance tasks. It was created as a requirement for receiving the Nvidia Jetson AI Specialist Certificate.
